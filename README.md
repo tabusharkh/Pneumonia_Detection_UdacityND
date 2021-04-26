@@ -1,2 +1,3 @@
 # Pneumonia Detection from Chest X-Rays
-This is submission for Udacity Nanodegree. AI for Healthcare.
+### This is an academic project was submitted to Udacity in AI for Healthcare Nanodegree program.
+#### The starter code of this project on github: https://github.com/udacity/AIHCND_C2_Starter
